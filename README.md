@@ -22,7 +22,7 @@ JavaScript | Novice
 * :chipmunk: Squirrels are cool
 
 
-### _Currently working on _
+###  _Currently working on_
 * Java desktop application - learning Irregular English Verbs
 * various small pet projects, personal PHP based page, personal page with some light jQuery/Bootstrap finishes
 * Converting Java homeworks to C#
