@@ -1,5 +1,7 @@
 ## Hello Github, I'm Nejc.
 
+<img src="https://user-images.githubusercontent.com/9198025/89333065-bcd80900-d694-11ea-825f-fe691ec81420.png" align="right">
+
 ### _I'm into_
 * :coffee: Java Development
 * :musical_score: C# Tinkering
