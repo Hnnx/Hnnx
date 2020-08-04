@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello Github, I'm Nejc.
 
-<!--
-**Hnnx/Hnnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### _I'm into_
+* :coffee: Java Development
+* :musical_score: C# Tinkering
+* :elephant: PHP trickery
+* :globe_with_meridians: Web stuff - front to back, but mainly front
 
-Here are some ideas to get you started:
+Language | Prowess
+------------ | -------------
+Java | Intermediate
+C# | Novice/Intermediate
+HTML | Experienced
+CSS | Experienced
+PHP | Novice/Intermediate
+JavaScript | Novice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### _BUTT ALSO_ :peach:
+* :space_invader: VIDEO GAMES
+* :motorcycle: ungraceful riding
+* :bicyclist: slow (but steady) cycling
+* :chipmunk: Squirrels are cool
+
+
+### _Currently working on _
+* Java desktop application - learning Irregular English Verbs
+* various small pet projects, personal PHP based page, personal page with some light jQuery/Bootstrap finishes
+* Converting Java homeworks to C#
+
+## Looking for work, hit me up if you need a reliable hard working junior dev :alien:
