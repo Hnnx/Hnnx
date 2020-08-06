@@ -29,4 +29,5 @@ JavaScript | Novice
 * various small pet projects, personal PHP based page, personal page with some light jQuery/Bootstrap finishes
 * Converting Java homeworks to C#
 
+
 ## Looking for work, hit me up if you need a reliable hard working junior dev :alien:
