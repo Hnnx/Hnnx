@@ -28,6 +28,7 @@ JavaScript | Novice
 * Java desktop application - learning Irregular English Verbs
 * various small pet projects, personal PHP based page, personal page with some light jQuery/Bootstrap finishes
 * Converting Java homeworks to C#
+* Java desktop app that will work alongside CRacing website and offer similar functionality 
 
 
 ## Looking for work, hit me up if you need a reliable hard working junior dev :alien:
